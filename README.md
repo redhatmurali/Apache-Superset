@@ -64,12 +64,3 @@ This document outlines the automated setup steps used to deploy **Apache Superse
 ## 📎 Notes
 
 > For security, store DB credentials and Superset secrets in environment variables or Vault.
-
----
-
-### 👍 Want the full installation script too?
-Reply with:
-
-> **"Send the full Superset install script"**
-
-And tell me your OS (Ubuntu 22.04, RHEL, Amazon Linux, etc.) — I'll generate a production-ready `.sh` script for GitHub.
